@@ -1,25 +1,66 @@
-<h1 align="center">Hi 👋, I'm Oliver, aka magenbrot</h1>
-<h3 align="center">I'm a system engineer for linux systems</h3>
+<div align="center">
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magenbrot&" alt="magenbrot" /></p>
+  <h1>Hi 👋, ich bin Oliver!</h1>
+  <h3>Senior System Engineer (Linux) & Freiwilliger Feuerwehrmann</h3>
 
-[![magenbrot's GitHub stats](https://github-readme-stats.vercel.app/api?username=magenbrot&custom_title=GitHub%20stats&rank_icon=github&show_icons=true)](https://github.com/magenbrot)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magenbrot&layout=compact)
+  <p>
+    <a href="https://noris.de">noris network AG</a> • 
+    <a href="https://ovtec.it">OVTEC Völker IT</a> • 
+    <a href="https://feuerwehr-werdau.de">Feuerwehr Werdau</a>
+  </p>
 
-- 🔭 I’m currently working on [Feuerwehr-Versorgungs-Helfer](https://github.com/magenbrot/Feuerwehr-Versorgungs-Helfer)
-- 🌱 I’m currently learning **python, microcontroller, CI/CD**
-- 💬 Ask me about **smarthome, home assistant, KNX**
+  <p align="center">
+    <a href="https://github.com/magenbrot">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magenbrot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Magenbrot's Stats" />
+    </a>
+    <a href="https://github.com/magenbrot">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magenbrot&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=magenbrot&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/magenbrot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magenbrot" height="30" width="40" /></a>
-<a href="https://fb.com/magenbrot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magenbrot" height="30" width="40" /></a>
-<a href="https://instagram.com/magenbrot79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magenbrot79" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/magenbrot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="magenbrot" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/magenbrot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="magenbrot" /></a></p>
+### 👨‍💻 Über mich
+
+Ich bin leidenschaftlicher **Linux-Admin** und Technik-Enthusiast. Wenn ich nicht gerade Server bei der **noris network AG** betreue oder Hosting-Lösungen für **OVTEC** baue, lösche ich Brände – digital und analog.
+
+*   🔭 Aktuelles Projekt: **[Feuerwehr-Beitrag-Generator](https://github.com/magenbrot/Feuerwehr-Beitrag-Generator)** (Social Media Tool für Einsatzkräfte)
+*   🚒 Ehrenamt: Gruppenführer & Social Media @ **Feuerwehr Werdau**
+*   🏠 Smart Home: **Home Assistant** & **KNX** Power-User
+*   🌱 Lernen: Python, CI/CD (GitHub Actions), Microcontroller
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<div align="center">
+
+| Infrastructure | DevOps & Cloud | Coding | IoT & Hardware |
+| :---: | :---: | :---: | :---: |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) |
+| ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
+| ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) | ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
+
+</div>
+
+---
+
+### 🌐 Connect
+
+<div align="center">
+  <a href="https://ovtec.it" target="_blank">
+    <img src="https://img.shields.io/badge/Website-OVTEC.it-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/magenbrot" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/magenbrot79" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
