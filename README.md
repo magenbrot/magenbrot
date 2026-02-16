@@ -4,12 +4,11 @@
   <h3>Senior System Engineer (Linux) & Freiwilliger Feuerwehrmann</h3>
 
   <p>
-    <a href="https://ovtec.it">OVTEC Völker IT</a> • 
     <a href="https://noris.de">noris network AG</a> • 
+    <a href="https://ovtec.it">OVTEC Völker IT</a> • 
     <a href="https://feuerwehr-werdau.de">Feuerwehr Werdau</a>
   </p>
 
-  <!-- STATS SECTION (Repariert & Modernisiert) -->
   <p align="center">
     <a href="https://github.com/magenbrot">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magenbrot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Magenbrot's Stats" />
@@ -19,7 +18,6 @@
     </a>
   </p>
   
-  <!-- Reparierte Streak Stats (Neue Domain!) -->
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=magenbrot&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
   </p>
