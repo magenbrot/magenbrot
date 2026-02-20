@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Hi 👋, ich bin Oliver!</h1>
-  <h3>Senior System Engineer (Linux) & Freiwilliger Feuerwehrmann</h3>
+  <h1>Hi 👋, ich bin Oli!</h1>
+  <h3>Senior IT System Engineer (Linux), Papa & Freiwilliger Feuerwehrmann</h3>
 
   <p>
     <a href="https://noris.de">noris network AG</a> • 
