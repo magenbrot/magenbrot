@@ -30,7 +30,7 @@
 
 Ich bin leidenschaftlicher **Linux-Admin** und Technik-Enthusiast. Wenn ich nicht gerade Server bei der **noris network AG** betreue oder Hosting-Lösungen für **OVTEC** baue, lösche ich Brände – digital und analog.
 
-*   🔭 Aktuelles Projekt: **[Feuerwehr-Beitrag-Generator](https://github.com/magenbrot/Feuerwehr-Beitrag-Generator)** (Social Media Tool für Einsatzkräfte)
+*   🔭 Aktuelles Projekt: **[Feuerwehr-Versorgungs-Helfer](https://github.com/magenbrot/Feuerwehr-Versorgungs-Helfer-API)** (Digitale Strichliste für die Feuerwehr)
 *   🚒 Ehrenamt: Gruppenführer & Social Media @ **Feuerwehr Werdau**
 *   🏠 Smart Home: **Home Assistant** & **KNX** Power-User
 *   🌱 Lernen: Python, CI/CD (GitHub Actions), Microcontroller
