@@ -11,15 +11,8 @@
 
   <p align="center">
     <a href="https://github.com/magenbrot">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magenbrot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Magenbrot's Stats" />
+      <img src="/github-metrics.svg" alt="Metrics" width="400" />
     </a>
-    <a href="https://github.com/magenbrot">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magenbrot&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-    </a>
-  </p>
-  
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=magenbrot&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
   </p>
 
 </div>
