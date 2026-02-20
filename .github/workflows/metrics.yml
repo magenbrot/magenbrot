@@ -16,9 +16,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Caching aktivieren
-          config_cache: yes
           
           # Design-Optionen
           user: magenbrot
