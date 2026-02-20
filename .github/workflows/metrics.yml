@@ -27,6 +27,12 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
+
+          # Plugin: Sponsors
+          plugin_sponsors: yes
+
+          # Plugin: Gists
+          plugin_gists: yes
           
           # Plugin: Achievements
           #plugin_achievements: yes
